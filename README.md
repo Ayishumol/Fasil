@@ -1,11 +1,11 @@
-<a href="https://github.com/aju001"><img src="https://fontmeme.com/permalink/211121/32108414fe61d225739702fe3b4c0784.png" alt="google-font" border="0"></a>
+<a href="https://github.com/aju001"><img src="https://i.imgur.com/d4DIca6.jpeg" alt="google-font" border="0"></a>
 <div align="center">
 
 
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/Y2mXdR5/ajuser.jpg""width="300" height="300"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="https://i.imgur.com/d4DIca6.jpeg""width="300" height="300"/>
     <p align="center">
     
     
